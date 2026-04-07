@@ -98,7 +98,7 @@ export default function Hero() {
             
             <div className="absolute inset-2 rounded-full overflow-hidden border-4 border-white/10 shadow-2xl shadow-accent/20">
               <img 
-                src="/profile.png" 
+                src="/myphoto.png" 
                 alt="Lucky Anish" 
                 className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
                 referrerPolicy="no-referrer"
