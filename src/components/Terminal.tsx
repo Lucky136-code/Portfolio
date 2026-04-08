@@ -198,7 +198,7 @@ export default function Terminal() {
             onClick={() => inputRef.current?.focus()}
           >
             <div className="text-accent mb-4">
-              Welcome to Lucky Anish's Terminal v1.0.0
+              Terminal made for coders and curious minds alike. Type commands to explore my background, projects, and more.
               <br />
               Type 'help' to see available commands.
             </div>
